@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-	char[] name;
-	printf("Enter name: ");
-	scanf("%s", name);
-	printf("hello\n %s", name);
+	int num;
+	printf("Enter a number: ");
+	scanf("%d", &num);
+	printf("%d^2 = %d\n", num, (num * num));
 	return 0;
 }
