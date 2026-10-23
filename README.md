@@ -1,2 +1,2 @@
 # collabTest
-Manav and Finn are working on a repo together.
+Manav and Finn are collaborating on a repo together.
