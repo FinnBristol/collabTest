@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main() {
-	// This print statement prints 'Hello World'
-	printf("Hello World\n");
+	char[] name;
+	printf("Enter name: ");
+	scanf("%s", name);
+	printf("hello\n %s", name);
 	return 0;
 }
